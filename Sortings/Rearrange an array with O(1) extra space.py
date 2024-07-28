@@ -22,7 +22,6 @@ def rearrange(arr, n):
 # A utility function to print
 # an array of size n
 
-
 def printArr(arr, n):
 
 	for i in range(0, n):
